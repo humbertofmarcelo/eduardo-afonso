@@ -16,9 +16,9 @@
   ],
   "titulo_hero": "Psicólogo Psicanalista em São Paulo",
   "subtitulo_hero": "O que cura é o afeto: não há terapia sem simpatia - Ferenczi",
-  "bio": "Se quiser, me chamar de Mah. Sou psicóloga formada pela Universidade Presbiteriana Mackenzie e atuo na clínica com abordagem psicanalítica, em atendimentos online.",
-  "bio_complementar": "Minha trajetória começou com a educação: já fui auxiliar bilíngue e dou aulas de inglês há alguns anos. Sempre fui curiosa, observadora e apaixonada por ouvir histórias — e foi essa escuta atenta, junto do desejo de acolher e compreender o outro, que me levou à psicologia.",
-  "descricao_seo": "Marcelle Gonçalves - Psicóloga Clínica (CRP 06/210464). Terapia Online em Santo André. Agende um atendimento.",
+  "bio": "",
+  "bio_complementar": "",
+  "descricao_seo": "Eduardo Afonso - Psicóloga Clínica (CRP 06/197171). Terapia Online em São Paulo. Agende um atendimento.",
   "demandas_titulo": "Por que psicanálise?",
   "demandas_subtitulo": "É necessário recordar, repetir e elaborar",
   "demandas": [
@@ -81,20 +81,20 @@
   "tipo_agendamento": "link",
   "link_agendamento": "https://www.instagram.com/psi.eduardoafonso/",
   "whatsapp": "551199999999",
-  "whatsapp_mensagem": "Olá, Marcelle! Vim pelo site e gostaria de agendar um atendimento.",
+  "whatsapp_mensagem": "Olá, Eduardo! Vim pelo site e gostaria de agendar um atendimento.",
   "instagram": "psi.eduardoafonso",
-  "og_image": "/og2.jpg",
+  "og_image": "/og.jpg",
   "imagens": {
     "hero": {
-      "desktop": "/images/hero-marcelle-desktop.webp",
-      "mobile": "/images/hero-marcelle-mobile.webp",
-      "arquivo": "/images/hero-marcelle-mobile.webp",
-      "alt": "Retrato de Marcelle Gonçalves, Psicóloga Clínica",
+      "desktop": "/images/hero.webp",
+      "mobile": "/images/hero.webp",
+      "arquivo": "/images/hero.webp",
+      "alt": "Retrato de Eduardo Afonso, Psicólogo Clínica",
       "obrigatoria": false
     },
     "sobre": {
       "arquivo": "/images/sobre.webp",
-      "alt": "Marcelle Gonçalves em seu consultório",
+      "alt": "Eduardo Afonso em foto profissional",
       "obrigatoria": false
     }
   }
