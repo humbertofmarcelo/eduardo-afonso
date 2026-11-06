@@ -4,7 +4,7 @@
 
 /* Classes tipográficas semânticas da coleção editorial */
 .texto-titulo {
-  font-family: var(--font-titulos, Georgia, serif);
+  font-family: var(--font-titulos, sans-serif);
   font-size: var(--text-3xl);
   line-height: var(--text-3xl--line-height);
   font-weight: 500;
@@ -12,7 +12,7 @@
 }
 
 .texto-subtitulo {
-  font-family: var(--font-titulos, Georgia, serif);
+  font-family: var(--font-titulos, sans-serif);
   font-size: var(--text-2xl);
   line-height: var(--text-2xl--line-height);
   font-weight: 500;

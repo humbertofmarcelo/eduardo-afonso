@@ -20,7 +20,7 @@ function pluginSincronizarTema() {
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://marcelle-goncalves.amostra-site.workers.dev/',
+  site: 'https://eduardo-afonso.amostra-site.workers.dev/',
 
   vite: {
     plugins: [

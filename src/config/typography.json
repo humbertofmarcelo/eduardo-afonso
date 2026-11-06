@@ -45,26 +45,38 @@
           "caminho": "/fonts/lato-700.woff2"
         }
       ]
+    },
+    "questrial": {
+      "nome": "Questrial",
+      "tipo": "sans",
+      "origem": "local",
+      "arquivos": [
+        {
+          "peso": 400,
+          "estilo": "normal",
+          "caminho": "/fonts/questrial-400.woff2"
+        }
+      ]
     }
   },
   "papeis": {
     "titulo": {
-      "familia": "lora",
-      "peso": 600,
+      "familia": "questrial",
+      "peso": 400,
       "tamanho": "text-3xl"
     },
     "subtitulo": {
-      "familia": "lora",
-      "peso": 600,
+      "familia": "questrial",
+      "peso": 400,
       "tamanho": "text-2xl"
     },
     "corpo": {
-      "familia": "lato",
+      "familia": "questrial",
       "peso": 400,
       "tamanho": "text-base"
     },
     "legenda": {
-      "familia": "lato",
+      "familia": "questrial",
       "peso": 400,
       "tamanho": "text-sm"
     }
